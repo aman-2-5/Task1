@@ -1,5 +1,5 @@
 # Task 1: Foundation & Environment Setup
-## Cybersecurity & Ethical Hacking Internship Program
+## Cybersecurity & Ethical Hacking notes
 
 ---
 
